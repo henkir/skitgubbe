@@ -1,0 +1,58 @@
+.------..------..------..------..------..------..------..------..------.
+|S.--. ||K.--. ||I.--. ||T.--. ||G.--. ||U.--. ||B.--. ||B.--. ||E.--. |
+| :/\: || :/\: || (\/) || :/\: || :/\: || (\/) || :(): || :(): || (\/) |
+| :\/: || :\/: || :\/: || (__) || :\/: || :\/: || ()() || ()() || :\/: |
+| '--'S|| '--'K|| '--'I|| '--'T|| '--'G|| '--'U|| '--'B|| '--'B|| '--'E|
+`------'`------'`------'`------'`------'`------'`------'`------'`------'
+
+- Antal spelare: 3-12
+- Antal kortlekar: 2
+
+= Spelets upplägg =
+Spelet sker i två rundor.
+Första rundan gäller det att ta stick som man ska spela med under andra omgången.
+Andra rundan går ut på att bli av med de kort man har.
+
+== Förberedelser ==
+En spelare blandar kortlekarna, delar ut tre kort till varje spelare och lägger resten i en hög i mitten.
+
+== Första rundan ==
+Spelaren till vänster börjar rundan. Sedan lägger spelare i tur och ordning var sitt kort. Den som tar sticket får börja lägga kort till nästa stick.
+
+=== En spelares tur ===
+Spelaren lägger ut ett kort framför sig enligt följande regler (högre prio ju högre i listan):
+- Om spelaren har ett kort med samma valör som ett som redan ligger på bordet måste spelaren lägga detta (vid flera olika får spelare välja fritt bland dessa)
+- Spelaren lägger ett kort från handen och tar ett nytt från högen eller chansar och drar ett från högen och lägger på bordet
+
+=== Vem som tar sticket ===
+När alla har lagt bestäms vem som får sticket med följande regler (högre prio ju högre i listan):
+- Om det finns två kort av samma valör och färg, får de spelarna inklusive andra som lagt samma valör spela (tillagd 2013-08-28)
+- Om det finns minst två av samma valör, får de som har lagt den valör som det finns flest av spela
+- Om det finns flera uppsättningar av samma antal lika kort, får de som har lagt den lägsta valören spela
+- Om alla kort har olika värde, går sticket till spelaren med det högsta kortet
+
+=== Slutet på första rundan ===
+Spelaren som drar det sista kortet (trumfkortet) ur högen lägger det åt sidan utan att titta på det tills alla har spelat ut sina kort. Då vänds det upp och färgen på kortet bestämmer vilken färg som är trumf. Det bestämmer även vilken färg som är anti-trumf, nämligen den andra av samma hex-färg (ex. trumf: spader, anti-trumf: klöver) (2013-08-27). Valören på trumfkortet bestämmer det antal kort varje spelare måste ha tagit för att undvika att få dela på skiten; valören multipliceras med antalet kortlekar. Ifall någon har mindre antal kort än vad trumfkortet angav slänger alla spelare in alla kort med valörerna 2-5. Dessa blandas och delas ut bland de som ska dela på skiten.
+
+== Andra rundan ==
+Den spelare som drog trumfkortet får börja.
+
+=== En spelares tur ===
+Spelaren har två alternativ; att plocka upp kort eller lägga kort.
+
+==== Plocka kort ====
+Spelaren plockar den lägsta ihophängande stegen (kan bestå av kort från en eller flera spelare).
+
+==== Lägga kort ====
+Spelaren lägger ett eller flera kort som bildar en stege (dubletter av samma kort får läggas). Följande regler gäller när det redan ligger kort på bordet (högre prio ju högre i listan):
+- Ett par i trumf (med eventuell stigande stege) får läggas på vad som helst (2013-08-27)
+- Trumf får inte läggas på anti-trumf (2013-08-27)
+- Trumf får läggas på övriga färger och på trumf
+- En stege får börja på det som föregående slutade på
+- En stege måste följa färg
+
+=== Vändning ===
+När det ligger lika många högar på bordet som det är spelare vänds korten bort och spelaren som vände får lägga valfria kort. När det vänds, byter man även håll som spelarna lägger kort (dvs. medurs blir moturs och tvärtom) (2013-08-26).
+
+=== Slutet ===
+När en spelare har lagt ut alla sina kort är denne gått ut. När det endast finns en spelare kvar utnämns denne till skitgubbe.
